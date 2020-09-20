@@ -81,6 +81,10 @@
       <Project>{453c087f-e416-4ae9-8c03-d8760da0574b}</Project>
       <Name>GameRes</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Image.Convert\Image.Convert.csproj">
+      <Project>{757eb8b1-f62c-4690-ac3d-dae4a5576b3e}</Project>
+      <Name>Image.Convert</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
